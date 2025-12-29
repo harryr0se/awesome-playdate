@@ -117,6 +117,7 @@ This information was gleaned from a developer preview unit and screenshots.
  
 #### C++
 - [playdate-cpp](https://github.com/nstbayless/playdate-cpp) - Develop your Playdate game in C++
+- [playdate-cpp-extensions](https://github.com/metaphaseaudio/playdate-cpp-extensions) - C++ wrappers for the C playdate API
 
 #### Experimental & Other
 These projects represent experiments with the Playdate. Use at your own risk.
