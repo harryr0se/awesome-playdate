@@ -114,6 +114,9 @@ This information was gleaned from a developer preview unit and screenshots.
 - [DRAM: Winbond W967D6HBGX7I 16MB](https://www.mouser.com/datasheet/2/949/w967d6hb_datasheet_pkg_a01-003_20130529-1489841.pdf)
 - [LCD Module: Sharp LS027B7DH01A](https://www.sharpsde.com/fileadmin/products/Displays/Specs/LS027B7DH01A_06Aug12_Spec_LCP-1112041.pdf)
   - [LCD Screen Programming Guide](https://www.sharpsde.com/fileadmin/products/Displays/2016_SDE_App_Note_for_Memory_LCD_programming_V1.3.pdf)
+ 
+#### C++
+- [playdate-cpp](https://github.com/nstbayless/playdate-cpp) - Develop your Playdate game in C++
 
 #### Experimental & Other
 These projects represent experiments with the Playdate. Use at your own risk.
